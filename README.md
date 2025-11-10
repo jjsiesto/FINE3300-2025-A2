@@ -13,7 +13,7 @@ This assignment has two main parts:
 
 ### Part B: Consumer Price Index (CPI) Analysis
 
-* **Script:** `CPI.py`
+* **Script:** `CPI_analysis.py`
 * **Description:** A Python script that performs a comprehensive analysis of Consumer Price Index (CPI) data. It loads and combines data from 11 jurisdictions, analyzes it against provincial minimum wage data, and calculates various metrics such as month-to-month changes and equivalent salaries.
 * **Data Files:**
     * `cpi_data/` (directory): Contains 11 `.csv` files, one for each jurisdiction's CPI data.
@@ -25,7 +25,8 @@ The scripts are written in Python 3 and require the following libraries:
 
 * `pandas`
 * `matplotlib`
+* `numpy`
 
 You can install these dependencies using pip:
 ```bash
-pip install pandas matplotlib
+pip install pandas matplotlib numpy
