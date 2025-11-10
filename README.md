@@ -1,10 +1,10 @@
 # FINE 3300 (Fall 2025): Assignment 2
 
-This repository contains the Python scripts and data files for Assignment 2 of FINE 3300. 
+This repository contains the Python scripts and data files for Assignment 2. 
 
 ## Repository Contents
 
-This assignment is divided into two main parts:
+This assignment has two main parts:
 
 ### Part A: Loan and Amortization Schedules
 
